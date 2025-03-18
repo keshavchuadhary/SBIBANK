@@ -1,4 +1,4 @@
-package Bank.web.app.entity;
+package sbibank.web.app.entity;
 
 public enum Type {
     WITHDRAW,
